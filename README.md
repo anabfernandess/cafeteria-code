@@ -16,7 +16,13 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-![image](https://github.com/user-attachments/assets/593a6cef-1e97-4531-8989-9acd45a60273)
+![image](https://github.com/user-attachments/assets/593a6cef-1e97-4531-8989-9acd45a60273) <br>
+![image](https://github.com/user-attachments/assets/46170c22-d92b-48d0-8445-e6af64bf5e22) <br>
+
+
+
+
+
 
 💡 Próximas Melhorias
 - ✅ Melhorar a experiência mobile <br>
